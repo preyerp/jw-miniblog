@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/jw-miniblog/static/js/main.b93ed21b.js",
+    "index.html": "/jw-miniblog/index.html",
+    "main.b93ed21b.js.map": "/jw-miniblog/static/js/main.b93ed21b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b93ed21b.js"
+  ]
+}
